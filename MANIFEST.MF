@@ -1,0 +1,301 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 4.2.1
+
+Name: AndroidManifest.xml
+SHA1-Digest: LAUVl4jJPR8CaVC2BapIuLiw4cM=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: Srb6/hCzitHMI/s9JDXhcBhY0IE=
+
+Name: assets/Game/0.1at
+SHA1-Digest: QXWK+j2NV4eEqnZxcDHav9FdDyo=
+
+Name: assets/Game/0.1fo
+SHA1-Digest: wvjxMtcZzqO+qtPyeKSoBklGb+c=
+
+Name: assets/Game/0.1in
+SHA1-Digest: 8F9iq2TZEZqcl0ZniCmwmxg2rpQ=
+
+Name: assets/Game/0.1so
+SHA1-Digest: Qq80PC5lvmYGP1wMQlrAhUhPKhI=
+
+Name: assets/Game/0.1sp
+SHA1-Digest: GM6dipVnv250rTOrU3w1018uo9Y=
+
+Name: assets/Game/0.1ts
+SHA1-Digest: 8S3fMGOTUTYs08rYPvi7TkopOOs=
+
+Name: assets/Game/1.1at
+SHA1-Digest: UMZolM2j2OQgiZgAQGwWErpoVeY=
+
+Name: assets/Game/1.1so
+SHA1-Digest: 50gGtOoSfdGExAtu/l0sCTXizOI=
+
+Name: assets/Game/1.1sp
+SHA1-Digest: gc/QBaN6pIOxETwNKm1QjAaN+ec=
+
+Name: assets/Game/1.1ts
+SHA1-Digest: BW82h3Osj/tK3/dxA7pLo7U/Ycw=
+
+Name: assets/Game/10.1at
+SHA1-Digest: F/u8WFp13sZ2SU3ai/bs5Ktptaw=
+
+Name: assets/Game/10.1so
+SHA1-Digest: FN2D2nvBUAbdawJRBxRpApoY9rI=
+
+Name: assets/Game/10.1sp
+SHA1-Digest: yyU63iKUkxEhTqObxlNbMPvucqE=
+
+Name: assets/Game/11.1at
+SHA1-Digest: 0tvPNIvAZ25JaRG8sPKDA/FTqHk=
+
+Name: assets/Game/11.1so
+SHA1-Digest: fAIm/y++p0Z5CxStn7bZCbx9gnA=
+
+Name: assets/Game/11.1sp
+SHA1-Digest: XbjukT7lcOFlKaIU1GHoIgnl/gw=
+
+Name: assets/Game/12.1at
+SHA1-Digest: eNJB0c328F4pd7/OBl9vzQ4SxF8=
+
+Name: assets/Game/12.1so
+SHA1-Digest: icGotq48ahq10/1q3khUWdvPMf0=
+
+Name: assets/Game/12.1sp
+SHA1-Digest: osj7tB+2TkPknOr2eFKrmfTW1FI=
+
+Name: assets/Game/13.1at
+SHA1-Digest: iv3ixcqG4LNdczimaMbHQ0g221I=
+
+Name: assets/Game/13.1so
+SHA1-Digest: RbwD8iq4Ba7GkrSHZCMqdNYUJis=
+
+Name: assets/Game/13.1sp
+SHA1-Digest: YAhJ43k9aYvijCyLbHfNNiI4DtY=
+
+Name: assets/Game/14.1at
+SHA1-Digest: 7VlzRZ99UylhK+AWcEDsPgZ2qkU=
+
+Name: assets/Game/14.1sp
+SHA1-Digest: IbLOqYK4zeL4nHclk071ofmSwhE=
+
+Name: assets/Game/15.1at
+SHA1-Digest: SvcyRzfUjwCrvqgBUbMSksB9sYA=
+
+Name: assets/Game/15.1sp
+SHA1-Digest: gP92LWK5N87JfKkui8UGfvitmQc=
+
+Name: assets/Game/16.1at
+SHA1-Digest: BoM6N1lCh+zxIFHCbKbocOBHfWo=
+
+Name: assets/Game/16.1sp
+SHA1-Digest: ntzKP3bhk2JBc3qlnTRQu07t7Pk=
+
+Name: assets/Game/17.1at
+SHA1-Digest: M5doRUIniLh/MnKhjIgT0ATCMZI=
+
+Name: assets/Game/17.1sp
+SHA1-Digest: L75AviNHUkzIp/4TOeEsDjhcG1k=
+
+Name: assets/Game/18.1at
+SHA1-Digest: LnM0xIaovEjpSmjdnvPIbNHqGmI=
+
+Name: assets/Game/18.1sp
+SHA1-Digest: 1z9tHTTgiut575A0PT2dNtM+0T4=
+
+Name: assets/Game/19.1sp
+SHA1-Digest: RgaYNDd6CGtpE9YOx5houQ9g2KE=
+
+Name: assets/Game/2.1at
+SHA1-Digest: +vD9Wu0ungreoZNvh46/9ib1SX0=
+
+Name: assets/Game/2.1so
+SHA1-Digest: HT5FdFH0JbpzP7hGzUtzGZ2k1UQ=
+
+Name: assets/Game/2.1sp
+SHA1-Digest: +P2mDXKkzTVb1Kgd55N1TiS12dA=
+
+Name: assets/Game/2.1ts
+SHA1-Digest: mtjX3rtm88QPiyytF/XqoTdz+Vs=
+
+Name: assets/Game/20.1sp
+SHA1-Digest: YIW4//cdHNDkrCRcSI/lsJobNe0=
+
+Name: assets/Game/21.1sp
+SHA1-Digest: HxQneGjjfi2UmWDWVbI50MR6DT4=
+
+Name: assets/Game/22.1sp
+SHA1-Digest: O/ais64bwlM7nJpb2evvU5OIqQ4=
+
+Name: assets/Game/23.1sp
+SHA1-Digest: ZgZnl+68caKA0qU5Pxt9HWd3IR0=
+
+Name: assets/Game/24.1sp
+SHA1-Digest: hGndDSUJFMh8qkJd0sWQ+Eo/Eyo=
+
+Name: assets/Game/25.1sp
+SHA1-Digest: pqJRfSe4r6QZmw4KBP7IeZCr/4k=
+
+Name: assets/Game/26.1sp
+SHA1-Digest: /fO7r927CqbC3gi7gtAsi6PCQO0=
+
+Name: assets/Game/3.1at
+SHA1-Digest: aBJnwl9btiQK0XvcqBO3H0Ueto8=
+
+Name: assets/Game/3.1so
+SHA1-Digest: LYdJ00yY/9kG8kRI1xxpCcIxXtU=
+
+Name: assets/Game/3.1sp
+SHA1-Digest: JlEe8jjZnLv51j2BH04CuqRO87I=
+
+Name: assets/Game/3.1ts
+SHA1-Digest: Zyo3HxVQq02nN3AJm987gR1sjqk=
+
+Name: assets/Game/4.1at
+SHA1-Digest: fjg95+5A3GyR9FmASZOK/PhE9bA=
+
+Name: assets/Game/4.1so
+SHA1-Digest: T7R0KGAjNV5jTJFqdysNIAaFvS8=
+
+Name: assets/Game/4.1sp
+SHA1-Digest: OKAxLTtUvb4vnS7dYh7M9M77G/E=
+
+Name: assets/Game/4.1ts
+SHA1-Digest: XBAytyuBvhxhgzhGTA35SnWL5VU=
+
+Name: assets/Game/5.1at
+SHA1-Digest: qi+P1Zofojtqh4mkCqvHAYZuGU4=
+
+Name: assets/Game/5.1so
+SHA1-Digest: JD5x59jARPqeoGeYPUTBB22mlq4=
+
+Name: assets/Game/5.1sp
+SHA1-Digest: rAQVF+B58nYr5lWDT0aaQ3ZwZEk=
+
+Name: assets/Game/6.1at
+SHA1-Digest: HZSN2kfJO92G6BBo8KGWsOWtYew=
+
+Name: assets/Game/6.1so
+SHA1-Digest: sg4gfX8QkE8qDDX0dM8d/S2vKow=
+
+Name: assets/Game/6.1sp
+SHA1-Digest: T4rMhHlM2KZvnKN2J544QXgRA1Y=
+
+Name: assets/Game/7.1at
+SHA1-Digest: 5foABnK1JTiqdHHsAAoFMyr/hHw=
+
+Name: assets/Game/7.1so
+SHA1-Digest: MgKRaphwZsXeWfcZ1s6DF6dcqkU=
+
+Name: assets/Game/7.1sp
+SHA1-Digest: rox9SMtgfF3Fc7ctjvoZiMVIlH4=
+
+Name: assets/Game/8.1at
+SHA1-Digest: i7ikRCMAIU1QdCO900mnELaNkts=
+
+Name: assets/Game/8.1so
+SHA1-Digest: Tz5uu2SjEFJD3ZrnL2cvsAlr7cI=
+
+Name: assets/Game/8.1sp
+SHA1-Digest: c8/efThoizZpaO/9TR1z2VB8P9c=
+
+Name: assets/Game/9.1at
+SHA1-Digest: RKrUGaOW9GPshk2EIgQnEvhpUeM=
+
+Name: assets/Game/9.1so
+SHA1-Digest: 95Rj6B6apchJiNwAptrHS1uxE/s=
+
+Name: assets/Game/9.1sp
+SHA1-Digest: aiKy1UTnn3qGdpHjCB0uYw0leM4=
+
+Name: assets/Game/DATA.INI
+SHA1-Digest: dnBkoofp0JOk+7/fRAVq66MukHw=
+
+Name: assets/Game/Full Screen.1ui
+SHA1-Digest: BMgbBIlCYe2EubLN/YqdT6n1FSI=
+
+Name: assets/Game/Full Screenc.1ui
+SHA1-Digest: ds7PMowcN+sdscl3i4uC81V/oU8=
+
+Name: assets/Game/INTRO.1st
+SHA1-Digest: vYQdz6jZHxHnAtsc3XLNRiipUBU=
+
+Name: assets/Game/SETTINGS.INI
+SHA1-Digest: 16IIfLJ39p+5E92r/ilR3duudJk=
+
+Name: assets/Game/Stage01-01.1mp
+SHA1-Digest: oFW9J66gO6n9Ya35kAqeUcXsgAQ=
+
+Name: assets/Game/backup1.1ui
+SHA1-Digest: WByupY41VVSpR0wnSaH/dmYMmzY=
+
+Name: assets/Game/breaks.dat
+SHA1-Digest: hUThn9lNCogxy6eiVlDqy/fxB4s=
+
+Name: assets/Game/loading.1ui
+SHA1-Digest: VkdqWbQfSOwo9hcG+dvkk12ON6w=
+
+Name: assets/Game/test_stage.1mp
+SHA1-Digest: 6vKIyaF3VUf7aBHwU/vtVQdeKTM=
+
+Name: assets/Game/test_stage2.1mp
+SHA1-Digest: DxV1sQdrv6qeDc6M7WEtbopW7F4=
+
+Name: billing.properties
+SHA1-Digest: Vrm1vIwUgOlwwKKWkTRI0/PHVtQ=
+
+Name: classes.dex
+SHA1-Digest: XDPj0ORQ8YgvqK0nrO/89E7J1P0=
+
+Name: firebase-encoders-json.properties
+SHA1-Digest: mW3wqgnQaaap/vsAaQd4i9Iqeso=
+
+Name: firebase-encoders-proto.properties
+SHA1-Digest: 5sMycb7VmONfgx8PEsoKHmUOy9w=
+
+Name: firebase-encoders.properties
+SHA1-Digest: sky6iNHkBkY01io4PqfMNLR4l6s=
+
+Name: lib/arm64-v8a/libEngine001.so
+SHA1-Digest: cLcivAQtb/NtG3RjuS+D17CKCTA=
+
+Name: lib/arm64-v8a/libLaunch001.so
+SHA1-Digest: z54IyvCPszTitWwP/nyqJU2kLlo=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: cVYgB9tvky8cMyD0NX0pYhj8mrY=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA1-Digest: qTxNL6TRaQJwk7mlkByE+f89uVg=
+
+Name: lib/armeabi-v7a/libEngine001.so
+SHA1-Digest: kllgvI4vw59AVVZ/Cu245U945Ss=
+
+Name: lib/armeabi-v7a/libLaunch001.so
+SHA1-Digest: hdlGYq0Q5WZCYzLpgb/r4zxcPRg=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: sa49f/N8F0mQU+QG4xSSCRnh6j8=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: xsck//n8BO9nl7Fx8p7hD/xO7Gs=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 3Hs20E6LqchnMoYW2ECnuQlWn3Y=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: dRslJbMnCIbSesr+wl3THt4W47g=
+
+Name: resources.arsc
+SHA1-Digest: d+Go9scxQxh8e6tjzcJug6boJNA=
+
+Name: transport-api.properties
+SHA1-Digest: ix5ULUaUIINddTrXGghc/jPG7Rk=
+
+Name: transport-backend-cct.properties
+SHA1-Digest: xjzNY7ZAdNG6dnz9fHQOmgpnOvM=
+
+Name: transport-runtime.properties
+SHA1-Digest: BzV80W4Gs/pkPAHBooGPQ303NFE=
+
